@@ -9,6 +9,8 @@ Steps
 3. Open the main.html in vscode, and run LiveServer (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) OR use python to serve this directory using `python3 -m http.server`
 4. Now your program will run inside browser's virtual machine.
 
+I have added the compiled WASM binaries to the repo to get an idea. You can check out the html file and see how things are connected.
+
 More details can be found on this article
 https://www.codegully.com/blog/introduction-to-web-assembly
 
